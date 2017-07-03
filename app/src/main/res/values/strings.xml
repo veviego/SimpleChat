@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleChat</string>
+    <string name="applicationId">simplechat-client</string>
+    <string name="server">https://codepath-chat-lab.herokuapp.com/parse/</string>
+    <string name="message_hint">Compose message here</string>
+    <string name="send">Send</string>
 </resources>
